@@ -4,8 +4,8 @@ if(argv == 2){
     console.log("No argument");
    
 } else if(argv == 3){
-    console.log("argument found");
+    console.log("Argument found");
 }else{
-    console.log("arguments found");
+    console.log("Arguments found");
     
 }
